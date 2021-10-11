@@ -18,5 +18,6 @@ Use tmux or the ./003_attach_bash_to_container.bash script.
 #### Terminal 2
 02_connect_ros_via_mavlink.bash
 
+#### Terminal 3
 03_start_qgroundcontrol.bash
 
